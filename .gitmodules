@@ -1,0 +1,3 @@
+[submodule "djoggers-vue"]
+	path = djoggers-vue
+	url = git@github.com:shaheer73/djoggers-vue.git
